@@ -1,1 +1,1 @@
-# Sample-Terraform-SNS
+# Create Terraform file to setup SQS and SNS
